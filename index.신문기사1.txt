@@ -9,6 +9,14 @@
             희망직업: 마케터<br>
            
         <h3>내가 모은 신문 기사</h3>
-            <a href= 'https://naver.me/GMWKozgW'  target = '_blank'>신문기사 1 </a>
+            <a href= 'https://naver.me/GMWKozgW' target = '_blank'>신문기사 1 </a>
+            <a href= ''  target = '_blank'>신문기사제목 </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
+            <a href= ''  target = '_blank'>신문기사  </a>
     </body>
 </html>
